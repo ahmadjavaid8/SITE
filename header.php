@@ -1,4 +1,14 @@
- <h1>header</h1>
+<!DOCTYPE HTML>
+
+<head>
+<title>AHMADJAVED</title>
+<link rel="stylesheet" href="app.css" />
+</head>
+
+<header>
+<h1>LOGO</h1>
+</header>
+
 
  <ul>
 
