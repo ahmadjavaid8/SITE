@@ -1,3 +1,5 @@
+<?php $title ="Contact Us";?>
+ 
 <?php include"header.php";?>
 
 

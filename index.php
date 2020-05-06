@@ -1,3 +1,5 @@
+<?php $title ="Homepage";?>
+
 <?php include"header.php";?>
 
 

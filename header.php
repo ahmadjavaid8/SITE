@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
-
 <head>
-<title>AHMADJAVED</title>
+<title><?php echo $title;?></title>
 <link rel="stylesheet" href="app.css" />
 </head>
 
@@ -12,9 +11,9 @@
 
  <ul>
 
- <li><a href="index.php">Home</a></li>
- <li><a href="about.php">About</a></li>
- <li><a href="contact.php">Contact</a></li>
+ <li><a href="index">Home</a></li>
+ <li><a href="about">About</a></li>
+ <li><a href="contact">Contact</a></li>
 
 
  </ul>
